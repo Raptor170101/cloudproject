@@ -39,6 +39,17 @@ The project integrates:
 - Python 3.10+
 - [Streamlit](https://streamlit.io) for the cloud dashboard
 
+
+### Steps to follow
+
+- Download the code
+- add your google cloud creditentials json at the root of the project
+- modifie the .env file with your informations
+- run the app.py file in the middleware folder
+- run the dasboard.py file with the command "streamlit run dashboard.py" on the dashboard folder
+- run the M5 code on UIflow while having your M5 connected
+
+
 ---
 
 ### Project Structure
